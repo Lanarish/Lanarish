@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A proficient Frontend Developer based in Tbilisi, Georgia. </h3>
 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me)](https://git.io/typing-svg) -->
+<div align="center"><img src="https://github.com/Lanarish/Lanarish/blob/main/%E2%80%94Pngtree%E2%80%94girl%20with%20laptop%20continuous%20line_4977917.png" height="200" width="200" /></div>
 <p>A passionate enthusiast of frontend development, constantly delving into the vast realm of web development, with a focus on React.js. Armed with over 3 years of experience, this curious explorer embraces continuous learning, eager to expand their skills and knowledge. </p>
 
 
@@ -10,7 +12,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-lanariversh-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@lanariversh)](https://telegram.org/@lanariversh)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdmalyugina@gmail.com)](mailto:sdmalyugina@gmail.com)
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+proficient+Frontend+Developer+based+Tbilisi+Georgia. )](https://git.io/typing-svg) -->
 
 
 <details>
